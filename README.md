@@ -6,7 +6,7 @@ Bring your drawings into the real world with ARKit. Submission for Apple Swift S
 
 # Status
 
-[Accepted](https://x.com/_Luis_Leonardo/status/1655999360541523968)
+[Winner](https://x.com/_Luis_Leonardo/status/1655999360541523968)
 
 ![](https://github.com/user-attachments/assets/51e6f4e3-549d-40d9-b5ff-1fdc53e71d94)
 
